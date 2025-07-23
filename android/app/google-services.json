@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "538238583501",
+    "firebase_url": "https://iotproject1-85bb8-default-rtdb.firebaseio.com",
+    "project_id": "iotproject1-85bb8",
+    "storage_bucket": "iotproject1-85bb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538238583501:android:a5b156b2af2e68aaaa5f84",
+        "android_client_info": {
+          "package_name": "com.example.gajatrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZFgaGMXfeNYW3NJjx9wWBknybAnOwyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

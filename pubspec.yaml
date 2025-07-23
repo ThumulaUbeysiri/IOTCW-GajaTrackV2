@@ -1,0 +1,44 @@
+name: gajatrack
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.8
+  firebase_database: ^10.4.5
+
+  # Mapping & Location
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.1
+  geolocator: ^11.0.0
+  location: ^5.0.3
+
+  # State Management & UI
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+
+  # NEW: For local network communication
+  udp: ^5.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/Asian_Elephant_Icon.svg.png"
+
+flutter:
+  uses-material-design: true
